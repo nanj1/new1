@@ -1,4 +1,27 @@
---------- beginning of system
+-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asfhadskjhfkjasdhfklhadskjljfkljsdkjfklsdjaklf---- beginning of system
 02-01 10:43:01.152 I/vold    (  348): Vold 3.0 (the awakening) firing up
 02-01 10:43:01.152 V/vold    (  348): Detected support for: ext4 vfat
 02-01 10:43:01.431 D/vold    (  348): e4crypt_init_user0
@@ -3668,7 +3691,7 @@
 02-01 10:43:17.180 D/NfcAdaptation( 3473): NfcAdaptation::Initialize: Overriding NFA_EE_MAX_EE_SUPPORTED to use 4
 02-01 10:43:17.181 D/NfcAdaptation( 3473): const CNfcParam *CNfcConfig::find(const char *) const found NFA_POLL_BAIL_OUT_MODE=(0x1)
 02-01 10:43:17.181 D/NfcAdaptation( 3473): NfcAdaptation::Initialize: Overriding NFA_POLL_BAIL_OUT_MODE to use 1
-02-01 10:43:17.181 D/NfcAdaptation( 3473): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=ˇˇÅÄpˇˇ
+02-01 10:43:17.181 D/NfcAdaptation( 3473): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=\FF\FF\81\80p\FF\FF
 02-01 10:43:17.181 D/NfcAdaptation( 3473): const CNfcParam *CNfcConfig::find(const char *) const found APPL_TRACE_LEVEL=(0xFF)
 02-01 10:43:17.181 D/BrcmNfcJni( 3473): initializeGlobalAppLogLevel: level=5
 02-01 10:43:17.181 D/        ( 3473): verify_stack_non_volatile_store
@@ -4095,7 +4118,7 @@
 02-01 10:44:43.001 D/NfcAdaptation( 4344): NfcAdaptation::Initialize: Overriding NFA_EE_MAX_EE_SUPPORTED to use 4
 02-01 10:44:43.001 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_POLL_BAIL_OUT_MODE=(0x1)
 02-01 10:44:43.001 D/NfcAdaptation( 4344): NfcAdaptation::Initialize: Overriding NFA_POLL_BAIL_OUT_MODE to use 1
-02-01 10:44:43.001 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=ˇˇÅÄpˇˇ
+02-01 10:44:43.001 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=\FF\FF\81\80p\FF\FF
 02-01 10:44:43.001 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found APPL_TRACE_LEVEL=(0xFF)
 02-01 10:44:43.001 D/BrcmNfcJni( 4344): initializeGlobalAppLogLevel: level=5
 02-01 10:44:43.001 D/        ( 4344): verify_stack_non_volatile_store
@@ -4468,7 +4491,7 @@
 02-01 10:44:56.142 D/NfcAdaptation( 4344): NfcAdaptation::Initialize: Overriding NFA_EE_MAX_EE_SUPPORTED to use 4
 02-01 10:44:56.142 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_POLL_BAIL_OUT_MODE=(0x1)
 02-01 10:44:56.142 D/NfcAdaptation( 4344): NfcAdaptation::Initialize: Overriding NFA_POLL_BAIL_OUT_MODE to use 1
-02-01 10:44:56.142 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=ˇˇÅÄpˇˇ
+02-01 10:44:56.142 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=\FF\FF\81\80p\FF\FF
 02-01 10:44:56.142 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found APPL_TRACE_LEVEL=(0xFF)
 02-01 10:44:56.142 D/BrcmNfcJni( 4344): initializeGlobalAppLogLevel: level=5
 02-01 10:44:56.142 D/        ( 4344): verify_stack_non_volatile_store
@@ -4698,7 +4721,7 @@
 02-01 10:45:50.900 D/NfcAdaptation( 4344): NfcAdaptation::Initialize: Overriding NFA_EE_MAX_EE_SUPPORTED to use 4
 02-01 10:45:50.900 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_POLL_BAIL_OUT_MODE=(0x1)
 02-01 10:45:50.900 D/NfcAdaptation( 4344): NfcAdaptation::Initialize: Overriding NFA_POLL_BAIL_OUT_MODE to use 1
-02-01 10:45:50.900 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=ˇˇÅÄpˇˇ
+02-01 10:45:50.900 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found NFA_PROPRIETARY_CFG=\FF\FF\81\80p\FF\FF
 02-01 10:45:50.900 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found APPL_TRACE_LEVEL=(0xFF)
 02-01 10:45:50.900 D/BrcmNfcJni( 4344): initializeGlobalAppLogLevel: level=5
 02-01 10:45:50.900 D/        ( 4344): verify_stack_non_volatile_store
@@ -5768,7 +5791,7 @@
 02-01 10:45:51.266 I/BrcmNfcNfa( 4344): nfa_hci_api_register (nfc_jni)  Reusing: 0
 02-01 10:45:51.266 D/BrcmNfcJni( 4344): SecureElement::nfaHciCallback: event=0x0
 02-01 10:45:51.266 D/BrcmNfcJni( 4344): SecureElement::nfaHciCallback: NFA_HCI_REGISTER_EVT; status=0x0; handle=0x800
-02-01 10:45:51.266 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found AID_FOR_EMPTY_SELECT=†
+02-01 10:45:51.266 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found AID_FOR_EMPTY_SELECT=\A0
 02-01 10:45:51.266 D/BrcmNfcJni( 4344): SecureElement::initialize: exit
 02-01 10:45:51.266 D/BrcmNfcJni( 4344): RoutingManager::initialize(): enter
 02-01 10:45:51.266 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found HOST_LISTEN_TECH_MASK=(0x7)
@@ -5910,7 +5933,7 @@
 02-01 10:45:51.276 I/BrcmNfcNfa( 4344): nfa_hci_api_register (nfc_jni)  Reusing: 0
 02-01 10:45:51.276 D/BrcmNfcJni( 4344): SecureElement::nfaHciCallback: event=0x0
 02-01 10:45:51.276 D/BrcmNfcJni( 4344): SecureElement::nfaHciCallback: NFA_HCI_REGISTER_EVT; status=0x0; handle=0x800
-02-01 10:45:51.276 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found AID_FOR_EMPTY_SELECT=†
+02-01 10:45:51.276 D/NfcAdaptation( 4344): const CNfcParam *CNfcConfig::find(const char *) const found AID_FOR_EMPTY_SELECT=\A0
 02-01 10:45:51.276 D/BrcmNfcJni( 4344): updateEEStatus: exit
 02-01 10:45:51.276 D/BrcmNfcJni( 4344): performNfceeETSI12Config
 02-01 10:45:51.276 D/BrcmNfcJni( 4344): SecureElement::configureNfceeETSI12: enter
